@@ -1,7 +1,7 @@
-👋 Hola, soy @Juanma-Gutierrez Juanma Gutiérrez, desarrollador de aplicaciones web.
-👀 Estoy interesado en programación web, creación de aplicaciones web y frontend.
-🌱 Actualmente estoy en formación en desarrolo de aplicaciones Web, HTML, CSS, Bootstrap, JQuery, Javascript, PHP, MySQL,...
-💞️ Busco poder colaborar como desarrollador junior para empezar a demostrar mis nuevos conocimientos.
+👋 Hola, soy @Juanma-Gutierrez Juanma Gutiérrez, desarrollador de aplicaciones web.<br>
+👀 Estoy interesado en programación web, creación de aplicaciones web y frontend.<br>
+🌱 Actualmente estoy en formación en desarrolo de aplicaciones Web, HTML, CSS, Bootstrap, JQuery, Javascript, PHP, MySQL,...<br>
+💞️ Busco poder colaborar como desarrollador junior para empezar a demostrar mis nuevos conocimientos.<br>
 📫
 
 <!---
