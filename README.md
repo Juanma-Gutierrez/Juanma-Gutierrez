@@ -9,17 +9,22 @@
 💞️ Busco poder colaborar como desarrollador junior para poner en práctica mis nuevos conocimientos. Me gusta crear aplicaciones web rápidas, fáciles de usar y elaboradas con buenas prácticas.<br>
 
 
-**Lenguajes y herramientas:**  
+🛠 **Lenguajes y herramientas:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Juanma-Gutierrez&show_icons=true&theme=gotham" alt="Juanma-Gutierrez" />
-
+<p>
+<img height="25" src="https://img.shields.io/badge/-HTML5-blue?style=flat&logo=html5&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/-Javascript-blue?style=flat&logo=javascript&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/-PHP-blue?style=flat&logo=php&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/-AWS-blue?style=flat&logo=aws&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/-Laravel-blue?style=flat&logo=laravel&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/-Symphony-blue?style=flat&logo=symphony&logoColor=white">
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanma-gutierrez&label=Visitas&color=0e75b6&style=flat" alt="juanma-gutierrez" /> </p>
+  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Juanma-Gutierrez&show_icons=true&theme=react" alt="Juanma-Gutierrez" />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanma-gutierrez" alt="juanma-gutierrez" /></a> </p>
 
 
 
