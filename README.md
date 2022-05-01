@@ -5,26 +5,40 @@
 
 👋 Soy Juanma Gutiérrez, desarrollador de aplicaciones web junior de Málaga (España).<br>
 👀 Estoy interesado en desarrollo web, creación de aplicaciones web y frontend.<br>
-🌱 Actualmente estoy en formación en frontend, desarrollo de aplicaciones Web, HTML, CSS, Bootstrap, Javascript, PHP, MySQL,...<br>
-💞️ Busco poder colaborar como desarrollador junior para poner en práctica mis nuevos conocimientos. Me gusta crear aplicaciones web rápidas, fáciles de usar y elaboradas con buenas prácticas.<br>
-
-
-🛠 **Lenguajes y herramientas:**  
+🌱 Actualmente estoy en formación en frontend, desarrollo de aplicaciones web, HTML, CSS, Bootstrap, Javascript, PHP, MySQL, AWS, ...<br>
+💞️ Busco poder colaborar como desarrollador junior para poner en práctica mis nuevos conocimientos. Me gusta crear aplicaciones web rápidas, fáciles de usar y elaboradas con buenas prácticas.
+<br>
+<br>
+ ## 🛠 Lenguajes y herramientas:
 
 <p>
-<img height="25" src="https://img.shields.io/badge/-HTML5-blue?style=flat&logo=html5&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/-Javascript-blue?style=flat&logo=javascript&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/-PHP-blue?style=flat&logo=php&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/-AWS-blue?style=flat&logo=aws&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/-Laravel-blue?style=flat&logo=laravel&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/-Symphony-blue?style=flat&logo=symphony&logoColor=white">
+<img height="22" src="https://img.shields.io/badge/-HTML5-blue?style=flat&logo=html5&logoColor=white">
+<img height="22" src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white">
+<img height="22" src="https://img.shields.io/badge/-Bootstrap-blue?style=flat&logo=bootstrap&logoColor=white">
+<img height="22" src="https://img.shields.io/badge/-Javascript-blue?style=flat&logo=javascript&logoColor=white">
+<img height="22" src="https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&logoColor=white">
+<img height="22" src="https://img.shields.io/badge/-PHP-blue?style=flat&logo=php&logoColor=white">
+<img height="22" src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white">
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanma-gutierrez&label=Visitas&color=0e75b6&style=flat" alt="juanma-gutierrez" /> </p>
-  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Juanma-Gutierrez&show_icons=true&theme=react" alt="Juanma-Gutierrez" />
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanma-gutierrez" alt="juanma-gutierrez" /></a> </p>
+
+<!-- <p>
+<img height="22" src="https://img.shields.io/badge/-Laravel-3626A7?style=flat&logo=laravel&logoColor=white">
+<img height="22" src="https://img.shields.io/badge/-Symphony-3626A7?style=flat&logo=symphony&logoColor=white">
+<img height="22" src="https://img.shields.io/badge/-Angular-3626A7?style=flat&logo=angular&logoColor=white">
+<img height="22" src="https://img.shields.io/badge/-AWS-3626A7?style=flat&logo=amazonaws&logoColor=white">
+</p>
+-->
+<p>
+<img height="22" src="https://img.shields.io/badge/-Windows-2E382E?style=flat&logo=windows&logoColor=white">
+<img height="22" src="https://img.shields.io/badge/-Linux-2E382E?style=flat&logo=linux&logoColor=white">
+<img height="22" src="https://img.shields.io/badge/-VSCode-2E382E?style=flat&logo=visualstudiocode&logoColor=white">
+<img height="22" src="https://komarev.com/ghpvc/?username=juanma-gutierrez&label=Visitas&color=2E382E&style=flat" alt="juanma-gutierrez" />
+</p>
+ 
+ ## 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Juanma-Gutierrez&show_icons=true&theme=tokyonight" alt="Juanma-Gutierrez" />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanma-gutierrez&theme=dracula" alt="juanma-gutierrez" /></a> </p>
 
 
 
