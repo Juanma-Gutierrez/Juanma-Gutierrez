@@ -1,4 +1,4 @@
-### ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <a href="https://www.linkedin.com/in/juanmanuelgutierrezm/" target="_blank" rel="noopener noreferrer"> <img align="left" alt="Juan Manuel Gutiérrez's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+### ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <a href="https://www.linkedin.com/in/juanmanuelgutierrezm/" target="_blank" rel="noopener noreferrer"> <img align="left" alt="Juan Manuel Gutiérrez's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
 
 👋 Soy Juanma Gutiérrez, desarrollador de aplicaciones web junior de Málaga (España).<br>
 👀 Estoy interesado en desarrollo web, creación de aplicaciones web y frontend.<br>
