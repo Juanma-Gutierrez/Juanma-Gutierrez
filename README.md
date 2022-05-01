@@ -1,4 +1,4 @@
-### ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <a href="https://www.linkedin.com/in/juanmanuelgutierrezm/" target="_blank"> <img align="left" alt="Juan Manuel Gutiérrez's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+### ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <a href="https://www.linkedin.com/in/juanmanuelgutierrezm/" target="_blank" rel="noopener noreferrer"> <img align="left" alt="Juan Manuel Gutiérrez's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 
 👋 Soy Juanma Gutiérrez, desarrollador de aplicaciones web junior de Málaga (España).<br>
 👀 Estoy interesado en desarrollo web, creación de aplicaciones web y frontend.<br>
@@ -31,7 +31,7 @@
 <img height="22" src="https://img.shields.io/badge/-Linux-2E382E?style=flat&logo=linux&logoColor=white">
 <img height="22" src="https://img.shields.io/badge/-VSCode-2E382E?style=flat&logo=visualstudiocode&logoColor=white">
 <img height="22" src="https://komarev.com/ghpvc/?username=juanma-gutierrez&label=Visitas&color=2E382E&style=flat" alt="juanma-gutierrez" />
-<a href="https://www.linkedin.com/in/juanmanuelgutierrezm/" target="_blank"><img height="22" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/juanmanuelgutierrezm/" target="_blank" rel="noopener noreferrer"><img height="22" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
  
  ## 
