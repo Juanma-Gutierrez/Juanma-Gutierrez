@@ -12,8 +12,9 @@
 <br>
 Shall we talk? 👉🏽 <a href="https://www.linkedin.com/in/juanmanuelgutierrezm/" target="_blank" rel="noopener noreferrer"><img height="22" src="https://img.shields.io/badge/-LinkedIn-055786?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <br>
+<br>
 ## 🛠 Skills:
-
+<br>
 <p>
 <img height="22" src="https://img.shields.io/badge/-HTML5-055786?style=flat&logo=html5&logoColor=white">
 <img height="22" src="https://img.shields.io/badge/-CSS3-055786?style=flat&logo=css3&logoColor=white">
@@ -21,6 +22,7 @@ Shall we talk? 👉🏽 <a href="https://www.linkedin.com/in/juanmanuelgutierrez
 <img height="22" src="https://img.shields.io/badge/-PHP-055786?style=flat&logo=php&logoColor=white">
 <img height="22" src="https://img.shields.io/badge/-Python-055786?style=flat&logo=python&logoColor=white">
 <img height="22" src="https://img.shields.io/badge/-MySQL-055786?style=flat&logo=mysql&logoColor=white">
+<img height="22" src="https://img.shields.io/badge/-Wordpress-055786?style=flat&logo=wordpress&logoColor=white">
 </p>
 <p>
 <img height="22" src="https://img.shields.io/badge/-Windows-565656?style=flat&logo=windows&logoColor=white">
@@ -29,6 +31,8 @@ Shall we talk? 👉🏽 <a href="https://www.linkedin.com/in/juanmanuelgutierrez
 <img height="22" src="https://komarev.com/ghpvc/?username=juanma-gutierrez&label=Visitas&color=055786&style=flat" alt="juanma-gutierrez" />
 
 ## 
+  
+<br>
 <p align="center">
 <img width="500" src="https://github-readme-stats.vercel.app/api?username=Juanma-Gutierrez&show_icons=true&theme=tokyonight" alt="Juanma-Gutierrez" />
 </p>
