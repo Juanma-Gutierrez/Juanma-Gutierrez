@@ -17,9 +17,7 @@ Shall we talk? 👉🏽 <a href="https://www.linkedin.com/in/juanmanuelgutierrez
 <p>
 <img height="22" src="https://img.shields.io/badge/-HTML5-055786?style=flat&logo=html5&logoColor=white">
 <img height="22" src="https://img.shields.io/badge/-CSS3-055786?style=flat&logo=css3&logoColor=white">
-<img height="22" src="https://img.shields.io/badge/-Bootstrap-055786?style=flat&logo=bootstrap&logoColor=white">
 <img height="22" src="https://img.shields.io/badge/-Javascript-055786?style=flat&logo=javascript&logoColor=white">
-<img height="22" src="https://img.shields.io/badge/-JQuery-055786?style=flat&logo=jquery&logoColor=white">
 <img height="22" src="https://img.shields.io/badge/-PHP-055786?style=flat&logo=php&logoColor=white">
 <img height="22" src="https://img.shields.io/badge/-Python-055786?style=flat&logo=python&logoColor=white">
 <img height="22" src="https://img.shields.io/badge/-MySQL-055786?style=flat&logo=mysql&logoColor=white">
