@@ -1,11 +1,13 @@
-### <a href="https://www.linkedin.com/in/juanmanuelgutierrezm/" target="_blank" rel="noopener noreferrer"><img height="22" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  ¡Hola! 
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  ¡Hola! 
 
 
 👋 Soy Juanma Gutiérrez, desarrollador de aplicaciones web junior de Málaga (España).<br>
 👀 Estoy interesado en desarrollo web, creación de aplicaciones web y frontend.<br>
 🌱 Actualmente estoy en formación frontend, en desarrollo de aplicaciones web, HTML, CSS, Javascript, PHP, MySQL, Python, AWS, ...<br>
-💻 Busco poder colaborar como desarrollador junior para poner en práctica mis nuevos conocimientos. Me gusta crear aplicaciones web rápidas, fáciles de usar y elaboradas con buenas prácticas.
+💻 Busco poder colaborar como desarrollador junior para aplicar mis conocimientos. Me gusta crear aplicaciones web rápidas, fáciles de usar y elaboradas con buenas prácticas.
 <br>
+<br>
+¿Hablamos? 👉🏽 <a href="https://www.linkedin.com/in/juanmanuelgutierrezm/" target="_blank" rel="noopener noreferrer"><img height="22" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <br>
 ## 🛠 Lenguajes y herramientas:
 
@@ -32,12 +34,12 @@
 <img height="22" src="https://img.shields.io/badge/-Linux-2E382E?style=flat&logo=linux&logoColor=white">
 <img height="22" src="https://img.shields.io/badge/-VSCode-2E382E?style=flat&logo=visualstudiocode&logoColor=white">
 <img height="22" src="https://komarev.com/ghpvc/?username=juanma-gutierrez&label=Visitas&color=2E382E&style=flat" alt="juanma-gutierrez" />
-<a href="https://www.linkedin.com/in/juanmanuelgutierrezm/" target="_blank" rel="noopener noreferrer"><img height="22" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+<a href="https://www.linkedin.com/in/juanmanuelgutierrezm/" target="_blank" rel="noopener noreferrer"><img height="25" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
  
  ## 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Juanma-Gutierrez&show_icons=true&theme=tokyonight" alt="Juanma-Gutierrez" />
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanma-gutierrez&theme=dracula" alt="juanma-gutierrez" /></a>
- </p>
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=Juanma-Gutierrez&show_icons=true&theme=tokyonight" alt="Juanma-Gutierrez" />
+</p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img width="500" src="https://github-profile-trophy.vercel.app/?username=juanma-gutierrez&theme=dracula" alt="juanma-gutierrez" /></a>
+</p>
