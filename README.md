@@ -34,7 +34,7 @@
 <img height="22" src="https://img.shields.io/badge/-Linux-2E382E?style=flat&logo=linux&logoColor=white">
 <img height="22" src="https://img.shields.io/badge/-VSCode-2E382E?style=flat&logo=visualstudiocode&logoColor=white">
 <img height="22" src="https://komarev.com/ghpvc/?username=juanma-gutierrez&label=Visitas&color=2E382E&style=flat" alt="juanma-gutierrez" />
-<a href="https://www.linkedin.com/in/juanmanuelgutierrezm/" target="_blank" rel="noopener noreferrer"><img height="25" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
+<a href="https://www.linkedin.com/in/juanmanuelgutierrezm/" target="_blank" rel="noopener noreferrer"><img height="22" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
  
  ## 
 
