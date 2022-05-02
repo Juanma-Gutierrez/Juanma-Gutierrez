@@ -28,7 +28,7 @@
 <img height="22" src="https://img.shields.io/badge/-Windows-545643?style=flat&logo=windows&logoColor=white">
 <img height="22" src="https://img.shields.io/badge/-Linux-545643?style=flat&logo=linux&logoColor=white">
 <img height="22" src="https://img.shields.io/badge/-VSCode-545643?style=flat&logo=visualstudiocode&logoColor=white">
-<img height="22" src="https://komarev.com/ghpvc/?username=juanma-gutierrez&label=Visitas&color=545643&style=flat" alt="juanma-gutierrez" />
+<img height="22" src="https://komarev.com/ghpvc/?username=juanma-gutierrez&label=Visitas&color=055786&style=flat" alt="juanma-gutierrez" />
 
 ## 
 <p align="center">
