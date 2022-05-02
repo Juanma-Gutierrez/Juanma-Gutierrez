@@ -10,7 +10,7 @@
 💻 I'm looking to be able to collaborate as a junior developer to apply my knowledge. I like to create fast, easy to use and well-practiced web applications.
 <br>
 <br>
-Shall we talk? 👉🏽 <a href="https://www.linkedin.com/in/juanmanuelgutierrezm/" target="_blank" rel="noopener noreferrer"><img height="22" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+Shall we talk? 👉🏽 <a href="https://www.linkedin.com/in/juanmanuelgutierrezm/" target="_blank" rel="noopener noreferrer"><img height="22" src="https://img.shields.io/badge/-LinkedIn-055786?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <br>
 ## 🛠 Skills:
 
