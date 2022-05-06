@@ -13,6 +13,7 @@
 ¿Hablamos? 👉🏽 <a href="https://www.linkedin.com/in/juanmanuelgutierrezm/" target="_blank" rel="noopener noreferrer"><img height="22" src="https://img.shields.io/badge/-LinkedIn-055786?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <br>
 <br>
+
 ## 🛠 Lenguajes y herramientas:
 <br>
 <p>
@@ -31,10 +32,13 @@
 <img height="22" src="https://komarev.com/ghpvc/?username=juanma-gutierrez&label=Visitas&color=055786&style=flat" alt="juanma-gutierrez" />
 
 ## 
-  
+
 <br>
 <p align="center">
 <img width="500" src="https://github-readme-stats.vercel.app/api?username=Juanma-Gutierrez&show_icons=true&theme=tokyonight" alt="Juanma-Gutierrez" />
+</p>
+<p align="center">
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanma-Gutierrez&theme=tokyonight" />
 </p>
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img width="500" src="https://github-profile-trophy.vercel.app/?username=juanma-gutierrez&theme=dracula" alt="juanma-gutierrez" /></a>
 </p>
