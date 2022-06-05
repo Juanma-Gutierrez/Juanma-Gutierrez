@@ -2,7 +2,7 @@
 <a href="https://github.com/Juanma-Gutierrez/Juanma-Gutierrez/blob/main/README.md" target="_blank" rel="noopener noreferrer"><img height="22" src="https://cdn-icons-png.flaticon.com/512/197/197593.png" alt="Readme en español"></a>
 <a href="https://github.com/Juanma-Gutierrez/Juanma-Gutierrez/blob/main/README_en.md" target="_blank" rel="noopener noreferrer"><img height="22" src="https://cdn-icons-png.flaticon.com/512/197/197374.png" alt="Readme en español"></a></p>
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hi! 
+### Hello world!
 
 👋 I'm Juanma Gutiérrez, junior web application developer from Málaga (Spain).<br>
 👀 I'm interested in web development, web application development and frontend.<br>
