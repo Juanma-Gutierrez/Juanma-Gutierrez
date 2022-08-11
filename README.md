@@ -4,7 +4,7 @@
 
 ### ¡Hola mundo! 
 
-👋 Soy Juanma Gutiérrez, desarrollador de aplicaciones web junior de Málaga (España).<br>
+👋 Soy Juanma Gutiérrez, desarrollador de aplicaciones web junior de Málaga (España), estudiante de 42 Málaga y del IES Campanillas.<br>
 👀 Estoy interesado en desarrollo web, creación de aplicaciones web y frontend.<br>
 🌱 Actualmente estoy en formación frontend, en desarrollo de aplicaciones web, HTML, CSS, Javascript, PHP, MySQL, Python, AWS, ...<br>
 💻 Busco poder colaborar como desarrollador junior para aplicar mis conocimientos. Me gusta crear aplicaciones web rápidas, fáciles de usar y elaboradas con buenas prácticas.
