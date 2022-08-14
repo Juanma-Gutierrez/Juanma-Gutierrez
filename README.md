@@ -34,11 +34,7 @@
 ## 
 
 <br>
-<p align="center">
-<img width="500" src="https://github-readme-stats.vercel.app/api?username=Juanma-Gutierrez&show_icons=true&theme=tokyonight" alt="Juanma-Gutierrez" />
-</p>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img width="500" src="https://github-profile-trophy.vercel.app/?username=juanma-gutierrez&theme=dracula" alt="juanma-gutierrez" /></a>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanma-Gutierrez&theme=tokyonight" />
-</p>
+<p align="center"><img width="500" src="https://github-readme-stats.vercel.app/api?username=Juanma-Gutierrez&show_icons=true&theme=tokyonight" alt="Juanma-Gutierrez" /></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img width="500" src="https://github-profile-trophy.vercel.app/?username=juanma-gutierrez&theme=dracula" alt="juanma-gutierrez" /></a></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanma-Gutierrez&theme=tokyonight" /></p>
+<p align="center"><img height="22" src="https://www.codewars.com/users/Juanma-Gutierrez/badges/small"></p>
