@@ -4,7 +4,7 @@
 
 ### Hello world!
 
-👋 I'm Juanma Gutiérrez, junior web application developer from Málaga (Spain).<br>
+👋 I'm Juanma Gutiérrez, junior web application developer from Málaga (Spain), 42 Málaga and IES Campanillas student.<br>
 👀 I'm interested in web development, web application development and frontend.<br>
 🌱 I'm currently in frontend training, web application development, HTML, CSS, Javascript, PHP, MySQL, Python, AWS, ...<br>
 💻 I'm looking to be able to collaborate as a junior developer to apply my knowledge. I like to create fast, easy to use and well-practiced web applications.
@@ -35,11 +35,7 @@ Shall we talk? 👉🏽 <a href="https://www.linkedin.com/in/juanmanuelgutierrez
 <br>
   
 <br>
-<p align="center">
-<img width="500" src="https://github-readme-stats.vercel.app/api?username=Juanma-Gutierrez&show_icons=true&theme=tokyonight" alt="Juanma-Gutierrez" />
-</p>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img width="500" src="https://github-profile-trophy.vercel.app/?username=juanma-gutierrez&theme=dracula" alt="juanma-gutierrez" /></a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanma-Gutierrez&theme=tokyonight" />
-</p>
+<p align="center"><img width="500" src="https://github-readme-stats.vercel.app/api?username=Juanma-Gutierrez&show_icons=true&theme=tokyonight" alt="Juanma-Gutierrez" /></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img width="500" src="https://github-profile-trophy.vercel.app/?username=juanma-gutierrez&theme=dracula" alt="juanma-gutierrez" /></a></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanma-Gutierrez&theme=tokyonight" /></p>
+<p align="center"><img height="22" src="https://www.codewars.com/users/Juanma-Gutierrez/badges/small"></p>
