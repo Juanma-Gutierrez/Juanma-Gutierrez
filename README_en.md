@@ -28,6 +28,7 @@ Shall we talk? 👉🏽 <a href="https://www.linkedin.com/in/juanmanuelgutierrez
 <img src="https://img.shields.io/badge/-Windows-015a8d?style=for-the-badge&logo=windows">
 <img src="https://img.shields.io/badge/-Linux-015a8d?style=for-the-badge&logo=linux">
 <img src="https://img.shields.io/badge/-VSCode-015a8d?style=for-the-badge&logo=visualstudiocode">
+<img src="https://img.shields.io/badge/-42Málaga-015a8d?&style=for-the-badge">
 <img src="https://komarev.com/ghpvc/?username=juanma-gutierrez&label=Visitas&color=055786&style=for-the-badge" alt="juanma-gutierrez">
 
 ## 
