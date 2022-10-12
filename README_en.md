@@ -10,26 +10,31 @@
 💻 I'm looking to be able to collaborate as a junior developer to apply my knowledge. I like to create fast, easy to use and well-practiced web applications.
 <br>
 <br>
-Shall we talk? 👉🏽 <a href="https://www.linkedin.com/in/juanmanuelgutierrezm/" target="_blank" rel="noopener noreferrer"><img height="25" src="https://img.shields.io/badge/-LinkedIn-014267?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+Shall we talk? 👉🏽 <a href="https://www.linkedin.com/in/juanmanuelgutierrezm/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://img.shields.io/badge/-LinkedIn-015a8d?style=flat&logo=linkedin" alt="LinkedIn"></a>
 <br>
 <br>
 ## 🛠 Skills:
 <br>
 <p>
-<img src="https://img.shields.io/badge/-HTML5-014267?style=for-the-badge&logo=html5">
-<img src="https://img.shields.io/badge/-CSS3-014267?style=for-the-badge&logo=css3">
-<img src="https://img.shields.io/badge/-Javascript-014267?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/-PHP-014267?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/-Python-014267?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-MySQL-014267?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/-Wordpress-014267?style=for-the-badge&logo=wordpress&logoColor=white">
+<p>
+<img src="https://img.shields.io/badge/-HTML5-014267?logo=html5&style=flat">
+<img src="https://img.shields.io/badge/-CSS3-014267?logo=css3&style=flat">
+<img src="https://img.shields.io/badge/-Javascript-014267?logo=javascript&style=flat">
+<img src="https://img.shields.io/badge/-PHP-014267?logo=php&style=flat&logoColor=fff">
+<img src="https://img.shields.io/badge/-Python-014267?logo=python&style=flat">
+<img src="https://img.shields.io/badge/-C-014267?logo=c&style=flat">
+<img src="https://img.shields.io/badge/-MySQL-014267?logo=mysql&style=flat&logoColor=fff">
+<img src="https://img.shields.io/badge/-WordPress-014267?logo=wordpress&style=flat">
+<img src="https://img.shields.io/badge/-Bootstrap-014267?logo=bootstrap&style=flat">
+<img src="https://img.shields.io/badge/-Bulma-014267?logo=bulma&style=flat">
 </p>
 <p>
-<img src="https://img.shields.io/badge/-Windows-015a8d?style=for-the-badge&logo=windows">
-<img src="https://img.shields.io/badge/-Linux-015a8d?style=for-the-badge&logo=linux">
-<img src="https://img.shields.io/badge/-VSCode-015a8d?style=for-the-badge&logo=visualstudiocode">
-<img src="https://img.shields.io/badge/-42Málaga-015a8d?&style=for-the-badge">
-<img src="https://komarev.com/ghpvc/?username=juanma-gutierrez&label=Visitas&color=055786&style=for-the-badge" alt="juanma-gutierrez">
+<img src="https://img.shields.io/badge/-Windows-015a8d?style=flat&logo=windows">
+<img src="https://img.shields.io/badge/-Linux-015a8d?style=flat&logo=linux">
+<img src="https://img.shields.io/badge/-VSCode-015a8d?style=flat&logo=visualstudiocode">
+<img src="https://komarev.com/ghpvc/?username=juanma-gutierrez&label=Visitas&color=015a8d&style=flat" alt="juanma-gutierrez">
+</p>
+<img src="https://img.shields.io/badge/-42Málaga-014267?logo=42&style=flat">
 
 ## 
   
