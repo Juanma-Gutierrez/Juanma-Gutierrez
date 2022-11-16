@@ -10,36 +10,56 @@
 💻 Busco poder colaborar como desarrollador junior para aplicar mis conocimientos. Me gusta crear aplicaciones web rápidas, fáciles de usar y elaboradas con buenas prácticas.
 <br>
 <br>
-¿Hablamos? 👉🏽 <a href="https://www.linkedin.com/in/juanmanuelgutierrezm/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://img.shields.io/badge/-LinkedIn-015a8d?style=flat&logo=linkedin" alt="LinkedIn"></a>
+¿Hablamos? 👉🏽  <a href="https://www.linkedin.com/in/juanmanuelgutierrezm/"
+target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/157006/linkedin.svg"
+alt="Linkedin" width="40" height="40"/>
+</a>
 <br>
 <br>
 
 ## 🛠 Lenguajes y herramientas:
 <br>
-<p>
-<img src="https://img.shields.io/badge/-HTML5-014267?logo=html5&style=flat">
-<img src="https://img.shields.io/badge/-CSS3-014267?logo=css3&style=flat">
-<img src="https://img.shields.io/badge/-Javascript-014267?logo=javascript&style=flat">
-<img src="https://img.shields.io/badge/-PHP-014267?logo=php&style=flat&logoColor=fff">
-<img src="https://img.shields.io/badge/-Python-014267?logo=python&style=flat">
-<img src="https://img.shields.io/badge/-C-014267?logo=c&style=flat">
-<img src="https://img.shields.io/badge/-MySQL-014267?logo=mysql&style=flat&logoColor=fff">
-<img src="https://img.shields.io/badge/-WordPress-014267?logo=wordpress&style=flat">
-<img src="https://img.shields.io/badge/-Bootstrap-014267?logo=bootstrap&style=flat">
-<img src="https://img.shields.io/badge/-Bulma-014267?logo=bulma&style=flat">
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/303208/php-1-logo.svg" alt="php" width="40" height="40"/> 
+<img src="https://www.svgrepo.com/show/354238/python.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/306453/mysql.svg" alt="mysql" width="40" height="40"/>
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/349568/wordpress.svg" alt="wordpress" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/>
 </p>
-<p>
-<img src="https://img.shields.io/badge/-Windows-015a8d?style=flat&logo=windows">
-<img src="https://img.shields.io/badge/-Linux-015a8d?style=flat&logo=linux">
-<img src="https://img.shields.io/badge/-VSCode-015a8d?style=flat&logo=visualstudiocode">
+
+## 
+
+<p align="left">
+<img src="https://www.svgrepo.com/show/52775/windows.svg" alt="windows" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/374171/vscode.svg" alt="vscode" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</p>
+
+##
+
+<p align="left">
+<img src="https://www.svgrepo.com/show/329824/42.svg" alt="42malaga" width="40" height="40"/>
 <img src="https://komarev.com/ghpvc/?username=juanma-gutierrez&label=Visitas&color=015a8d&style=flat" alt="juanma-gutierrez">
 </p>
-<img src="https://img.shields.io/badge/-42Málaga-014267?logo=42&style=flat">
 
 ## 
 
 <br>
-<p align="center"><img width="500" src="https://github-readme-stats.vercel.app/api?username=Juanma-Gutierrez&show_icons=true&theme=tokyonight" alt="Juanma-Gutierrez" /></p>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img width="500" src="https://github-profile-trophy.vercel.app/?username=juanma-gutierrez&theme=dracula" alt="juanma-gutierrez" /></a></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanma-Gutierrez&theme=tokyonight" /></p>
+<p align="center"><img width="500" src="https://github-readme-stats.vercel.app/api?username=Juanma-Gutierrez&show_icons=true&theme=dracula" alt="Juanma-Gutierrez" /></p>
+<p align="center"><img width="500" src="https://github-profile-trophy.vercel.app/?username=juanma-gutierrez&theme=dracula" alt="juanma-gutierrez" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juanma-gutierrez&theme=dracula" alt="juanma-gutierrez" /></p>
+<p align="center"><img src=https://github-readme-stats.vercel.app/api/top-langs?username=juanma-gutierrez&theme=dracula&show_icons=true&locale=en&layout=compact alt="juanma-gutierrez"/></p>
 <p align="center"><img height="22" src="https://www.codewars.com/users/Juanma-Gutierrez/badges/small"></p>
