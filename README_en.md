@@ -4,9 +4,14 @@
 
 ### Hello world!
 
-👋 I'm Juanma Gutiérrez, junior web application developer from Málaga (Spain), 42 Málaga and IES Campanillas student.<br>
-👀 I'm interested in web development, web application development and frontend.<br>
-🌱 I'm currently in frontend training, web application development, HTML, CSS, Javascript, PHP, MySQL, Python, AWS, ...<br>
+👋 Soy Juanma Gutiérrez, Desarrollador de Aplicaciones Web junior de Málaga (España), estudiante de 42 Málaga y de Desarrollo de Aplicaciones Multiplataforma del IES Campanillas.<br>
+👀 Estoy interesado en desarrollo web, desarrollo móvil, creación de aplicaciones web y frontend.<br>
+🌱 Actualmente estoy en formación frontend, en Desarrollo de Aplicaciones Multiplataforma, HTML, CSS, Javascript, Java, PHP, Python,  MySQL, AWS, ...<br>
+
+
+👋 I'm Juanma Gutiérrez, Junior Web Application Developer from Málaga (Spain), student of 42 Malaga and Multiplatform Application Development at IES Campanillas.<br>
+👀 I'm interested in web development, mobile development, web application creation and frontend.<br>
+🌱 I am currently in frontend training, in Multiplatform Application Development, HTML, CSS, Javascript, Java, PHP, Python, MySQL, AWS, ...<br>
 💻 I'm looking to be able to collaborate as a junior developer to apply my knowledge. I like to create fast, easy to use and well-practiced web applications.
 <br>
 <br>
