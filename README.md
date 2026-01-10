@@ -4,10 +4,9 @@
 
 ### ¡Hola mundo! 
 
-👋 Soy Juanma Gutiérrez, Desarrollador de Aplicaciones Web junior de Málaga (España), estudiante de 42 Málaga y de Desarrollo de Aplicaciones Multiplataforma del IES Campanillas.<br>
-👀 Estoy interesado en desarrollo web, desarrollo móvil, creación de aplicaciones web y frontend.<br>
-🌱 Actualmente estoy en formación frontend, en Desarrollo de Aplicaciones Multiplataforma, HTML, CSS, Javascript, Java, PHP, Python,  MySQL, AWS, ...<br>
-💻 Busco poder colaborar como desarrollador junior para aplicar mis conocimientos. Me gusta crear aplicaciones web rápidas, fáciles de usar y elaboradas con buenas prácticas.
+👋 Soy Juanma Gutiérrez, Desarrollador de Aplicaciones Multiplataforma iOS de Málaga (España).<br>
+👀 Estoy interesado en desarrollo de aplicaciones móviles, creación de aplicaciones web y frontend.<br>
+🌱 Actualmente estoy trabajando como desarrollador iOS.<br>
 <br>
 <br>
 ¿Hablamos? 👉🏽  <a href="https://www.linkedin.com/in/juanmanuelgutierrezm/"
